@@ -1,2 +1,2 @@
-# ARlINK
+# my-first-app
 BISMILAH
